@@ -3,4 +3,11 @@
   <groupId>com.interfly.icheckin</groupId>
   <artifactId>icheckin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+		<groupId>org.puremvc</groupId>
+		<artifactId>PureMVC_Java_MultiCore</artifactId>
+		<version>1.0</version>
+  	</dependency>
+  </dependencies>
 </project>
